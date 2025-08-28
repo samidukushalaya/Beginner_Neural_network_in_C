@@ -1,6 +1,7 @@
 ﻿# Beginner_Neural_network
 
- AND Gate
+ AND Gate 
  OR Gate 
  
+
 
