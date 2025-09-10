@@ -37,7 +37,7 @@ It's designed as a learning tool for beginners who want to understand the fundam
 |   1     |    0    |   1    |
 |   1     |    1    |   1    |
 
-- (More you traning more accurate the output)
+- The more you train, the more accurate the output becomes
 ---
 
 ## 🛠️ Getting Started
@@ -46,5 +46,6 @@ It's designed as a learning tool for beginners who want to understand the fundam
 
 - C Compiler (e.g. `gcc`)
 - Terminal / Command Prompt
+
 
 
