@@ -37,9 +37,10 @@ It's designed as a learning tool for beginners who want to understand the fundam
 |   1     |    0    |   1    |
 |   1     |    1    |   1    |
 
-- The more you train, the more accurate the output becomes.
-  To train the model in the code,
-  - 
+- The more you train, the more accurate the output becomes<br><br>
+  To train the model more,
+  - For OR Gate Change the test number in line 28
+  - For AND Gate Change the test number in line 28 
 ---
 
 ## 🛠️ Getting Started
@@ -48,6 +49,7 @@ It's designed as a learning tool for beginners who want to understand the fundam
 
 - C Compiler (e.g. `gcc`)
 - Terminal / Command Prompt
+
 
 
 
