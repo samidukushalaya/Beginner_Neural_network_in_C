@@ -38,7 +38,7 @@ It's designed as a learning tool for beginners who want to understand the fundam
 |   1     |    1    |   1    |
 
 - The more you train, the more accurate the output becomes  <br><br>
-   To train the model more to get accurate output,
+  ♠ To train the model more to get accurate output,
   - For OR Gate Change the test number in line 28
   - For AND Gate Change the epochs number in line 28
     
@@ -49,6 +49,7 @@ It's designed as a learning tool for beginners who want to understand the fundam
 ### 🔧 Prerequisites
 - Code editor(vscode , codeblock,..)
 - C Compiler (e.g. `gcc`)
+
 
 
 
