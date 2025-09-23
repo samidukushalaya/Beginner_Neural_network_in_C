@@ -25,9 +25,9 @@ int main(){
     }
 
     float lr = 0.1;
-    int epochs = 20000;
+    int test = 20000;
 
-    for (int epoch = 0; epoch < epochs;epoch++){
+    for (int epoch = 0; epoch < test;epoch++){
         printf("Epoch %d\n",epoch);
         for (int i=0;i<4;i++){
             float x1 = input[i][0];
