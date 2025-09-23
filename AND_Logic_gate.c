@@ -28,7 +28,7 @@ int main(){
     int test = 20000;
 
     for (int epoch = 0; epoch < test;epoch++){
-        printf("Epoch %d\n",epoch);
+        printf("Test  %d\n",epoch);
         for (int i=0;i<4;i++){
             float x1 = input[i][0];
             float x2 = input[i][1];
