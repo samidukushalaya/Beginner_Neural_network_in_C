@@ -46,7 +46,7 @@ int main(){
         }
     }
 
-    printf("Testing.... trained AND gate:\n");
+    printf("Testing.... Trained AND gate:\n");
     for(int i= 0 ; i<4;i++){
         float x1 =input[i][0];
         float x2=input[i][1];
