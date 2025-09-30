@@ -49,7 +49,7 @@ int main(){
         }
     }
 
-    printf("Testing...  tranied OR gate: \n");
+    printf("Testing...  Tranied OR gate: \n");
 
     for (int i=0 ;i<4;i++){
         float z = input[i][0] * weights[0] + input[i][1] * weights[1] + bias;
