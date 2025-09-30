@@ -28,7 +28,7 @@ int main(){
     int test = 500000;
 
     for (int tests =0 ;tests < test;tests++){
-        printf("test %d\n",tests);
+        printf("Test %d\n",tests);
 
         for(int i=0;i<4;i++){
             float x1 =input[i][0];
