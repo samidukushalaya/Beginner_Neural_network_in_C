@@ -7,7 +7,7 @@ It's designed as a learning tool for beginners who want to understand the fundam
 
 ---
 
-## 🚀 Features
+## 🚀 Features..
 
 - Learn **AND** or **OR** gate using the same code
 - Implements:
@@ -51,6 +51,7 @@ It's designed as a learning tool for beginners who want to understand the fundam
 ### 🔧 Prerequisites
 - Code editor(vscode , codeblock)
 - C Compiler (e.g. `gcc`)
+
 
 
 
