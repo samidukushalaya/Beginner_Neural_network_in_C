@@ -49,8 +49,9 @@ It's designed as a learning tool for beginners who want to understand the fundam
 ## 🛠️ Getting Started
 
 ### 🔧 Prerequisites
-- Code editor(vscode , codeblock)
-- C Compiler (e.g. `gcc`)
+- Code editor  (vscode , codeblock)
+- C Compiler   (e.g. `gcc`)
+
 
 
 
