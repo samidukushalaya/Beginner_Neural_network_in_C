@@ -9,6 +9,7 @@ float sigmoid(float x){
 
 float sigmoid_derivative(float x){
     return x*(1-x);
+    
 }
 
 int main(){
